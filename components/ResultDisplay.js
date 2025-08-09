@@ -100,4 +100,5 @@ const ResultDisplay = ({ data }) => {
   );
 };
 
+
 export default ResultDisplay;
